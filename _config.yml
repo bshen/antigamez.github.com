@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://AntiGameZ.github.com
-title: From .NET to RoR
-subtitle: war at workspace...
+title: 玩玩闹闹
+subtitle: 吃喝玩闹，码代码……
 author: AntiGameZ
 simple_search: http://google.com/search
 description:
@@ -33,7 +33,7 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: rdiscount
+markdown: maruku
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
