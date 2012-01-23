@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://AntiGameZ.github.com
+title: From .NET to RoR
+subtitle: war at workspace...
+author: AntiGameZ
 simple_search: http://google.com/search
 description:
 
@@ -81,8 +81,8 @@ googleplus_user:
 googleplus_hidden: false
 
 # Pinboard
-pinboard_user:
-pinboard_count: 3
+pinboard_user: AntiGameZ
+pinboard_count: 8
 
 # Delicious
 delicious_user:
