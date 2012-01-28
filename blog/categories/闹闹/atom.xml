@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[玩玩闹闹]]></title>
-  <link href="http://AntiGameZ.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 闹闹 | 玩玩闹闹]]></title>
+  <link href="http://AntiGameZ.github.com/blog/categories/闹闹/atom.xml" rel="self"/>
   <link href="http://AntiGameZ.github.com/"/>
   <updated>2012-01-29T00:30:16+08:00</updated>
   <id>http://AntiGameZ.github.com/</id>
@@ -27,16 +27,6 @@
 <p>明知道自己没什么时间听歌，但就是爱折腾各种音乐。iTunes Music和咱们大中国无缘，iTunes Match自然也就更没有关系。没有US的信用卡，真是想花钱都花不出去。加上自己的Xbox Live账号被Ban，更让我这个一等良民感到异常悲哀。<a href='http://www.pandora.com'>Pandora</a>自Ban了中国用户，<a href='http://wwww.spotify.com'>Spotify</a>的iPhone客户端也是不提供给中国大陆地区的，<a href='http://www.earbits.com'>Earbits</a>呢则完全不给力……总之想花钱听点歌，比登天还难。</p>
 
 <p>兴许下周三，Facebook就真的要IPO了，届时，又要解开互联网，以及科技股的新篇章了吧。</p>]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Playing Octopress]]></title>
-    <link href="http://AntiGameZ.github.com/blog/2012/01/23/playing-octopress/"/>
-    <updated>2012-01-23T17:32:00+08:00</updated>
-    <id>http://AntiGameZ.github.com/blog/2012/01/23/playing-octopress</id>
-    <content type="html"><![CDATA[<p><a href='http://jekyllrb.com/'>jekyll</a>和<a href='http://octopress.org'>Octopress</a>都是最近比较感兴趣的blog engine新军。简单方便随便hosting是最大的优势。</p>
-
-<p>年三十无聊，简单弄了一下，很快便把这个基于Octopress的博客搞起来。之后，尽量多写点东西吧。</p>]]></content>
   </entry>
   
 </feed>
